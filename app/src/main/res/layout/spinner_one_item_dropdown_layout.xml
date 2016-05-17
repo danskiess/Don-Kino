@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/spinner_title"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:ellipsize="end"
+    android:gravity="center_vertical"
+    android:lines="1"
+    android:maxLines="1"
+    android:paddingBottom="@dimen/search_bar_vertical_padding"
+    android:paddingLeft="@dimen/search_bar_horizontal_padding"
+    android:paddingRight="@dimen/search_bar_horizontal_padding"
+    android:paddingTop="@dimen/search_bar_vertical_padding"
+    android:singleLine="true"
+    android:textSize="@dimen/spinner_single_item_text_size"
+    tools:text="Title" />

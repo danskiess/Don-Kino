@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Don Kino</string>
+    <string name="action_licenses">Licenses</string>
+
+    <string name="tab_schedule">Schedule</string>
+    <string name="tab_program">Program</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+
+    <string name="filter_hint">Filter by movie title</string>
+    <string name="date_today">Today</string>
+    <string name="date_tomorrow">Tomorrow</string>
+    <string name="schedule_display_details">Display details</string>
+    <string name="schedule_buy_ticket">Purchase ticket</string>
+    <string name="now_in_theaters">In theaters</string>
+    <string name="upcoming">Soon in theaters</string>
+
+    <string name="movie_length">%s min</string>
+
+    <string name="open_source_license_title">Open source licenses</string>
+    <string name="error_casual">Whoops, something went wrong</string>
+    <string name="error_empty_response">Schedule is not available</string>
+    <string name="error_network">Network error, try again?</string>
+    <string name="error_filter">No shows to filter</string>
+    <string name="try_again">Try again</string>
+</resources>

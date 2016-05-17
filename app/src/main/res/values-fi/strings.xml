@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Don Kino</string>
+    <string name="action_licenses">Lisenssit</string>
+
+    <string name="tab_schedule">Aikataulu</string>
+    <string name="tab_program">Ohjelmisto</string>
+
+    <string name="action_search">Hae</string>
+    <string name="action_filter">Suodata</string>
+
+    <string name="filter_hint">Suodata elokuvan nimellä</string>
+    <string name="date_today">Tänään</string>
+    <string name="date_tomorrow">Huomenna</string>
+    <string name="schedule_display_details">Näytä lisätietoja</string>
+    <string name="schedule_buy_ticket">Osta lippu</string>
+    <string name="now_in_theaters">Teattereissa</string>
+    <string name="upcoming">Tulossa</string>
+
+    <string name="movie_length">%s min</string>
+
+    <string name="open_source_license_title">Avoimen lähdekoodin lisenssit</string>
+    <string name="error_casual">Oho, jotakin meni pieleen</string>
+    <string name="error_empty_response">Esitystietoja ei ole saatavilla kyseiselle päivälle</string>
+    <string name="error_network">Verkkovirhe, yritä uudestaan?</string>
+    <string name="error_filter">Ei suodatettavia esityksiä</string>
+    <string name="try_again">Yritä uudelleen</string>
+</resources>

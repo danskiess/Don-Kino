@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Grid -->
+    <dimen name="grid_height">240dp</dimen>
+    <dimen name="grid_detail_font_size">20sp</dimen>
+
+    <!-- Error -->
+    <dimen name="error_text_size">20sp</dimen>
+
+    <!-- Search bar -->
+    <dimen name="spinner_single_item_text_size">16sp</dimen>
+    <dimen name="spinner_two_item_text_size">14sp</dimen>
+    <dimen name="search_bar_horizontal_padding">16dp</dimen>
+    <dimen name="search_bar_vertical_padding">16dp</dimen>
+</resources>

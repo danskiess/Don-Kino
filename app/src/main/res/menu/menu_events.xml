@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_now_in_theaters"
+        android:title="@string/now_in_theaters"
+        android:icon="@drawable/ic_today_24dp"
+        android:orderInCategory="10"
+        app:showAsAction="always|collapseActionView" />
+
+    <item android:id="@+id/menu_upcoming"
+        android:title="@string/upcoming"
+        android:icon="@drawable/ic_date_range_white_24dp"
+        android:orderInCategory="11"
+        app:showAsAction="always|collapseActionView" />
+
+</menu>
